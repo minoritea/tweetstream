@@ -1,3 +1,7 @@
+# Forked from [github.com/tweetstream/tweetstream](https://github.com/tweetstream/tweetstream)
+
+For ruby 2.4 support.
+
 # TweetStream
 
 [![Gem Version](http://img.shields.io/gem/v/tweetstream.svg)][gem]
